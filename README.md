@@ -11,15 +11,12 @@ TidecoinProxy is a local mining proxy for Tidecoin. It binds to `127.0.0.1:3333`
 
 ## Requirements
 
-- Python 3.x (adjust if the project uses another runtime)
-- Install dependencies: `pip install -r requirements.txt` (remove if not applicable)
+- Python 3.x
+- Install dependencies: `pip install -r requirements.txt`
 
 ## Installation
 
 ```bash
 git clone https://github.com/sunyi9161/TidecoinProxy.git
 cd TidecoinProxy
-# Install dependencies (adjust to your project)
-
-## Warning
-- The code‘s note is write in Chinese.
+pip install -r requirements.txt
