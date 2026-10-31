@@ -20,3 +20,6 @@ TidecoinProxy is a local mining proxy for Tidecoin. It binds to `127.0.0.1:3333`
 git clone https://github.com/sunyi9161/TidecoinProxy.git
 cd TidecoinProxy
 # Install dependencies (adjust to your project)
+
+## Warning
+- The code‘s note is write in Chinese.
